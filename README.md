@@ -1,4 +1,4 @@
- Jeu de plateaéu de rudby réalisé en java en groupe de 4
+ Jeu de plateaeu de rudby réalisé en java en groupe de 4
  
 
 # CONVENTIONS
